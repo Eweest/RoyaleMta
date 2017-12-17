@@ -1,2 +1,4 @@
-# royalemta
-http://vk.com/royalmta
+# ROYALE MTA
+
+### RU
+Просмотр процесса разработки нашего проекта.
